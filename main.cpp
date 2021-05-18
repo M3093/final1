@@ -1,7 +1,7 @@
 //Programa de facturación// 
-
 #include <iostream>
 using namespace std;
+
 // Declaración de variables// 
   int consumo;
   char palabra [50]; 
